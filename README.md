@@ -14,9 +14,15 @@ Este proyecto se centra en la creación de una herramienta de organización de a
 - Julián Andrés Castillo
 
 ## Cómo Utilizar
-1. **Clona o descarga este repositorio en tu máquina local.**
-2. **Ejecuta el script principal `CLASSDOC.py` en tu entorno de desarrollo.**
-3. **Sigue las instrucciones para proporcionar la ruta del directorio raíz que deseas organizar.**
+1. Clona o descarga este repositorio en tu máquina local.
+2. Abre el script principal `CLASSDOC.py` en tu editor de código preferido.
+3. **Modifica las rutas de entrada y salida en el script:**
+   - Abre el script `CLASSDOC.py` y busca las variables `directorio_raiz` y `directorio_salida`.
+   - Modifica el valor de estas variables con las rutas completas de tus directorios de entrada y salida respectivamente.
+   - Guarda los cambios en el script.
+
+4. Ejecuta el script modificado en tu entorno de desarrollo.
+
 
 ## Estructura del Proyecto
 - `CLASSDOC.py`: Script principal para ejecutar el organizador de archivos.
