@@ -11,7 +11,7 @@ Este proyecto se centra en la creación de una herramienta de organización de a
 - Ingeniería Industrial
 
 ## Profesor
-- Julián Andrés Castillo
+- Julián Andrés Castillo Grisales
 
 ## Cómo Utilizar
 1. Clona o descarga este repositorio en tu máquina local.
