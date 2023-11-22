@@ -3,7 +3,7 @@
 ## CLASSDOC pretende revolucionar la forma en que las personas y las organizaciones gestionan sus activos digitales.
 
 ## Descripción del Proyecto
-Este proyecto se centra en la creación de una herramienta de organización de archivos llamada "Classdoc". La idea principal es recorrer un árbol de directorios, identificar tipos de archivos y organizarlos en carpetas específicas según su tipo. Además, se generarán estadísticas detalladas sobre los archivos organizados y se mantendrá un registro de eventos.
+Este proyecto se centra en la creación de una herramienta de organización de archivos llamada "CLASSDOC". La idea principal es recorrer un árbol de directorios, identificar tipos de archivos y organizarlos en carpetas específicas según su tipo. Además, se generarán estadísticas detalladas sobre los archivos organizados y se mantendrá un registro de eventos.
 
 ## Estudiante
 - Daniel Rosas Mendoza
